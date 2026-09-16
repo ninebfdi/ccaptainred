@@ -3,7 +3,7 @@
 
  
 <h3> nine </h3> <h6> @ninebfdi </h6>
-<h5>$${\color{blue}"yo}$$ $${\color{#FED85D}yo}$$ $${\color{blue}yo,}$$ $${\color{#FED85D}wazzup}$$ $${\color{blue}guys!"}$$ <img src="https://pixels.crd.co/assets/images/gallery107/069b9257.gif?v=29416114"></h5>
+<h5>$${\color{blue}"yo}$$ $${\color{#FED85D}yo}$$ $${\color{blue}yo,}$$ $${\color{#FED85D}wazzup}$$ $${\color{blue}guys!"}$$ <img src="https://pixels.crd.co/assets/images/gallery107/069b9257.gif?v=29416114" width="15"></h5>
 <p align="center">
 
 </p>
