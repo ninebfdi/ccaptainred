@@ -1,9 +1,8 @@
 <div align="center">
-<h5>$${\color{red}"ahoy \space there \space !"}$$</h5> <img src="https://watermelon.crd.co/assets/images/gallery02/33a44cae.gif?v=75c8e322">
+<h5>$${\color{blue}"yo yo yo \space wazzup \space guys!"}$$</h5> <img src="https://watermelon.crd.co/assets/images/gallery02/33a44cae.gif?v=75c8e322">
   
 ___
-<img width="2427" height="1150" alt="Untitled511_20260623115404" src="https://github.com/user-attachments/assets/65231fa0-3f9b-4b5e-a5aa-425db49b6b13" />
-
+insert img of nine dfjskjfkdsjkg
 
 
 
